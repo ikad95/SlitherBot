@@ -1,2 +1,2 @@
 # SlitherBot
-Please visit ikad95.github.io/SlitherBot for more info
+Please visit ikad95.github.io/slither for more info
