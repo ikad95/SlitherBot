@@ -11,7 +11,6 @@
 // @match        http://slither.io/
 // @grant        none
 // ==/UserScript==
-
 /*
 Override bot options here
 Uncomment variables you wish to change from their default values
