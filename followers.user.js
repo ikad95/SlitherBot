@@ -37,7 +37,7 @@ slitherApp.database().ref('slither/x').on('value', function(snapshot) {
     xxx = snapshot.val();
 });
 slitherApp.database().ref('slither/y').on('value', function(snapshot) {
-    yyy = snapshot.val();
+    yyy = snapshot.val(); 
 });
 
 slitherApp.database().ref('slither/address').on('value', function(snapshot) {
